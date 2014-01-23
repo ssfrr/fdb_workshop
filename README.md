@@ -15,9 +15,10 @@ and reuse of the materials in future workshops.
 ToDo
 ----
 
+1. ~~descriptive info and images for Day 1~~
 2. descriptive info and images for Day 2
 3. descriptive info and images for Day 3
 4. descriptive info and images for Day 4
 5. Arduino sketches for Day 3
 6. Arduino sketches for Day 4
-7. PD Patch for Day 2
+7. ~~PD Patch for Day 2~~
