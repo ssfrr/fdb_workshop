@@ -20,7 +20,7 @@ Topics
 Activity
 --------
 
-![Finished Oscillator](fixed-Freq Oscillator Photo.jpg)
+![Finished Oscillator](Fixed-Freq Oscillator Photo.jpg)
 The finished oscillator
 
 For this activity each student or group will need
