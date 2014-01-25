@@ -6,8 +6,6 @@ void setup()
   digitalWrite(3, LOW);
 }
 
-int freqs[] = {262, 294, 330, 349, 392, 440, 494, 523};
-
 void loop()
 {
   int pressure = analogRead(A0);
