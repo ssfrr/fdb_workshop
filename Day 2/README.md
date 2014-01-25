@@ -71,8 +71,10 @@ The frequency of the oscillator is determined by the 1K resistor that is
 between the green wires. Have the students swap it out for a 10K. What is the
 relationship between the resistance and the frequency?
 
-Now plug in the sensors as in the below picture. Based on your answer to the
-previous question, what is the relationship between the property being sensed
-(pressure, light, etc.) and the resistance of the sensor?
+Now plug in the sensors as in the below picture. Note that the sensors have
+been modified with an additional resistor. For now leave that wire unconnected,
+as it is used in a later activity. Based on your answer to the previous
+question, what is the relationship between the property being sensed (pressure,
+light, etc.) and the resistance of the sensor?
 
 ![Oscillator With Sensor](Oscillator With FSR.png)
