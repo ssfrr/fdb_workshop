@@ -1,13 +1,20 @@
-Day 1
-=====
+Day 1: Introduction to Acoustics
+================================
+
+This lesson is an introduction to the basic physics of sound, and how it is
+produced by the voice and perceived by the ears. The activity is intended to
+give the students a better intuitive understanding of frequency, what it sounds
+like, and how it relates to to musical pitches.
 
 Topics
 ------
 
 * The Human Voice
 * Ears and Hearing
-* Vibration
 * Air Pressure
+* Vibration
+* Frequency
+* Amplitude
 
 Demo
 ----

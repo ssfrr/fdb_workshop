@@ -4,7 +4,7 @@ Music Technology Workshop
 Spencer Russell, David Fleurimond and Dale Joachim  traveled to
 Fond-des-Blancs, Haiti on January 11th, 2014 to present a 4-day pilot workshop
 on music science and technology. The workshop was organized on behalf of Haiti
-Projects, a non-profit organization with established clinic, artisanat and
+Projects, a non-profit organization with established clinic, artisanal and
 library for women in Fond-des-Blancs.
 
 Note
@@ -22,3 +22,4 @@ ToDo
 5. Arduino sketches for Day 3
 6. Arduino sketches for Day 4
 7. ~~PD Patch for Day 2~~
+8. Presentation PDFs
