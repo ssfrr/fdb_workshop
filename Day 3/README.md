@@ -26,6 +26,11 @@ For this activity each student or group will need
 * 1 Computer with Arduino IDE installed
 * 1 Speaker with in-line 10uF capacitor for DC blocking
 
+A selection of sensors should be available for the students to swap around.
+The sensors should be set up as voltage dividers, i.e. if it is a simple
+resistive sensor, then you'll need to add an extra resistor to form the
+other half of the divider.
+
 ### A Simple Fixed Oscillator
 
 First walk the students through the basic parts of the program in
