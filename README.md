@@ -13,3 +13,5 @@ these materials is people who are already familiar with these concepts but are
 looking for a framework to help teach them to others.
 
 See the subfolders "Day 1", etc. for individual lessons.
+
+Presentation slides are in the included file FdB-hybrid.pdf.
